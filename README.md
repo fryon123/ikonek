@@ -47,3 +47,4 @@ Our automated text responder will help you out in using our service.
 
 ## Sources
 [fryon123/ikonek-server](http://github.com/fryon123/ikonek-server "fryon123/ikonek-server")
+[fryon123/ikonek-gateway](https://github.com/fryon123/ikonek-gateway "fryon123/ikonek-server")
