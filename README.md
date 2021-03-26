@@ -16,9 +16,9 @@ I-konek will solve this problem by utilizing the SMS (Short Messaging System) as
 - **SMS Gateway**
 - **Backend Server**
 
-##Website
+## Website
 The website will serve as the between the employer and the employee. The employers can search for a job they want to hire and the website provides them employees that can be contacted  immediately with a click of a button. This is the front-end.
-##SMS Gateway
+## SMS Gateway
 This component will handle every communication that includes the use of SMS. This will serve as a gateway between the job finders and the service. Because of expensive SMS Services, I-konek uses an app developed using [Flutter](https://flutter.dev "Flutter") that will handle text messages.
 ### Backend Server
 This is the main component of I-konek. This serves as the "provider" of I-konek. The backend server will provide the necessary data that are being requested by other components.  This component is also the one that communicates to the database. I-konek uses [Firebase](http://firebase.com "Firebase") for storing every data. The backend server uses glitch for the meantime as a hosting service. In the future, the server should be migrated to [Google Cloud](https://cloud.google.com/nodejs/ "Google Cloud").
@@ -27,7 +27,8 @@ This is the main component of I-konek. This serves as the "provider" of I-konek.
 
 I-konek is utilizing the use of **[REST](https://www.ibm.com/cloud/learn/rest-apis "REST")** API for communication between the server and its components.
 #### Try it in your browser
-You can use the website protoype. https://clean-fishy-honeydew.glitch.me
+You can use the website protoype.
+https://clean-fishy-honeydew.glitch.me
 
 **REST Endpoints**
 In your browser, enter the following to test it.
@@ -47,4 +48,5 @@ Our automated text responder will help you out in using our service.
 
 ## Sources
 [fryon123/ikonek-server](http://github.com/fryon123/ikonek-server "fryon123/ikonek-server")
+
 [fryon123/ikonek-gateway](https://github.com/fryon123/ikonek-gateway "fryon123/ikonek-server")
