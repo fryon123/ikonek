@@ -5,6 +5,10 @@ I-konek aims to bring the convenience of remote job finding to every corner of t
 ## How it works
 I-konek will be designed based on the modern online job finding platforms. The only difference of I-konek from the other services is it's accessible by everyone! Philippines is an island, therefore, it is composed of huge and beautiful landmasses. This landmasses, even though it is refreshing to our eyes, is a burden in providing fast internet to the people that are living in these places.
 
+This project is inspired by the people of poorer areas with their way of finding jobs. One of the members of Leibniz Solutions have seen people traveling far distances away from their home to travel in more civilized areas, knocking door to door in hoping to find a labor job. This inspires the team to reduce that problem by bringing the remote job finding to their hands.
+
+Using i-konek, the job finders can create an account using a cheap SMS Capable Phone. All they need is a load balance (or an unli-text promo) in their specific carriers. I-konek will then list their profile to the website categorized by their skills for the people to view. The employers can always visit the website to find employees. If the employer found a person to help them, they can communicate through text. With this, the job finders' time and efforts will not be wasted finding jobs physically.
+
 I-konek will solve this problem by utilizing the SMS (Short Messaging System) as a medium between the job finders and the service. SMS can be used without internet and with little signal. With this approach, wider group of people can experience the convenience of remote job finding.
 
 **I-konek** is composed of three(3) components: 
