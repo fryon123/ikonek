@@ -1,12 +1,27 @@
 # Welcome to I-Konek!
+I-konek is derived from bisayan pronouncation of connect. Ikonek means "to connect".
+I-konek aims to bring the convenience of remote job finding to every corner of the country, with high of low connection signal. 
 
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
-- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
-- Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
-- Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
-- Support identification, interpretation, fliter of the HTML tags;
-- Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
-- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+## How it works
+I-konek will be designed based on the modern online job finding platforms. The only difference of I-konek from the other services is it's accessible by everyone! Philippines is an island, therefore, it is composed of huge and beautiful landmasses. This landmasses, even though it is refreshing to our eyes, is a burden in providing fast internet to the people that are living in these places.
+
+I-konek will solve this problem by utilizing the SMS (Short Messaging System) as a medium between the job finders and the service. SMS can be used without internet and with little signal. With this approach, wider group of people can experience the convenience of remote job finding.
+
+**I-konek** is composed of three(3) components: 
+- **Website**
+- **SMS Gateway**
+- **Backend Server**
+
+##Website
+The website will serve as the between the employer and the employee. The employers can search for a job they want to hire and the website provides them employees that can be contacted  immediately with a click of a button. This is the front-end.
+##SMS Gateway
+This component will handle every communication that includes the use of SMS. This will serve as a gateway between the job finders and the service. Because of expensive SMS Services, I-konek uses an app developed using [Flutter](http://flutter.com "Flutter") that will handle text messages.
+### Backend Server
+This is the main component of I-konek. This serves as the "provider" of I-konek. The backend server will provide the necessary data that are being requested by other components.  This component is also the one that communicates to the database. I-konek uses [Firebase](http://firebase.com "Firebase") for storing every data.
+
+> I-konek also uses Firebase Cloud Messaging (FCM) for direct communication between the Backend and the SMS Gateway.
+
+
 
 # Editor.md
 
