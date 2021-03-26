@@ -36,7 +36,7 @@ In your browser, enter the following to test it.
 It will return the job finders' names with that skill, in this case, programming.
 You can search for other jobs. Try *mowing*.
 
-`https://clean-fishy-honeydew.glitch.me/profile/ FRYON AMBOY` <- include the spaces
+`https://clean-fishy-honeydew.glitch.me/profile/john bartolome` <- include the spaces
 This will return a specific profile.
 
 > Due to limited resources, we can't make the I-konek's SMS Gateway turned on always. 
