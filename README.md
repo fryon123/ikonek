@@ -12,9 +12,9 @@ I-konek will solve this problem by utilizing the SMS (Short Messaging System) as
 - **SMS Gateway**
 - **Backend Server**
 
-##Website
+## Website
 The website will serve as the between the employer and the employee. The employers can search for a job they want to hire and the website provides them employees that can be contacted  immediately with a click of a button. This is the front-end.
-##SMS Gateway
+## SMS Gateway
 This component will handle every communication that includes the use of SMS. This will serve as a gateway between the job finders and the service. Because of expensive SMS Services, I-konek uses an app developed using [Flutter](http://flutter.com "Flutter") that will handle text messages.
 ### Backend Server
 This is the main component of I-konek. This serves as the "provider" of I-konek. The backend server will provide the necessary data that are being requested by other components.  This component is also the one that communicates to the database. I-konek uses [Firebase](http://firebase.com "Firebase") for storing every data.
