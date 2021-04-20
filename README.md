@@ -1,3 +1,4 @@
+### > This project is now depracated. The numbers or the URLs may or may not work.
 # Welcome to I-Konek!
 I-konek is derived from bisayan pronouncation of connect. Ikonek means "to connect".
 I-konek aims to bring the convenience of remote job finding to every corner of the country, with high of low connection signal. 
