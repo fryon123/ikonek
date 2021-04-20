@@ -1,4 +1,5 @@
-### > This project is now depracated. The numbers or the URLs may or may not work.
+> This project is now depracated. The numbers or the URLs may or may not work.
+> This was a project for the month-long event: UP Diliman Solutions Challenge
 # Welcome to I-Konek!
 I-konek is derived from bisayan pronouncation of connect. Ikonek means "to connect".
 I-konek aims to bring the convenience of remote job finding to every corner of the country, with high of low connection signal. 
